@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715768083517",
+    "firebase_url": "https://spaceshooterfirebase.firebaseio.com",
+    "project_id": "spaceshooterfirebase",
+    "storage_bucket": "spaceshooterfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715768083517:android:f0ade7d4a353e72a",
+        "android_client_info": {
+          "package_name": "com.ecam.SpaceShooter16266"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715768083517-2rfdtr7qtjis7p9dgc813808g216tjc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNbihJBJYdgtoQTQ5tkaD2wBQVCWqULVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715768083517-2rfdtr7qtjis7p9dgc813808g216tjc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

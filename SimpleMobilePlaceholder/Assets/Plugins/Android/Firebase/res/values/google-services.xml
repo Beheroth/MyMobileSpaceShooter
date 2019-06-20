@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://spaceshooterfirebase.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">715768083517</string>
+  <string name="google_storage_bucket" translatable="false">spaceshooterfirebase.appspot.com</string>
+  <string name="project_id" translatable="false">spaceshooterfirebase</string>
+  <string name="google_api_key" translatable="false">AIzaSyBNbihJBJYdgtoQTQ5tkaD2wBQVCWqULVw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBNbihJBJYdgtoQTQ5tkaD2wBQVCWqULVw</string>
+  <string name="google_app_id" translatable="false">1:715768083517:android:f0ade7d4a353e72a</string>
+  <string name="default_web_client_id" translatable="false">715768083517-2rfdtr7qtjis7p9dgc813808g216tjc7.apps.googleusercontent.com</string>
+</resources>
